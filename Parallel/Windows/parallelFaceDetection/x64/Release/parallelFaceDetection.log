@@ -1,0 +1,8 @@
+﻿  parallelFaceDetection.cpp
+C:\Users\ASUS\Downloads\Face_detection_final (1)\Face_detection_final\Parallel\Windows\parallelFaceDetection\parallelFaceDetection.cpp(50,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 200 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  parallelFaceDetection.vcxproj -> C:\Users\ASUS\Downloads\Face_detection_final (1)\Face_detection_final\Parallel\Windows\x64\Release\parallelFaceDetection.exe

@@ -1,0 +1,3 @@
+﻿  serialFaceDetection.cpp
+C:\Users\ASUS\source\repos\serialFaceDetection\serialFaceDetection\serialFaceDetection.cpp(67,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  serialFaceDetection.vcxproj -> C:\Users\ASUS\source\repos\serialFaceDetection\x64\Debug\serialFaceDetection.exe

@@ -1,0 +1,7 @@
+﻿  serialFaceDetection.cpp
+C:\Users\ASUS\source\repos\serialFaceDetection\serialFaceDetection\serialFaceDetection.cpp(67,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 198 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  serialFaceDetection.vcxproj -> C:\Users\ASUS\source\repos\serialFaceDetection\x64\Release\serialFaceDetection.exe
